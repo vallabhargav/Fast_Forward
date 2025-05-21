@@ -1,0 +1,7 @@
+m416
+akm
+ump45
+uzi
+mk14
+m249
+    
